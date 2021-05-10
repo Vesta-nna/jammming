@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jammming/static/css/main.bc5dcb62.chunk.css",
+    "main.js": "/jammming/static/js/main.5bba9372.chunk.js",
+    "main.js.map": "/jammming/static/js/main.5bba9372.chunk.js.map",
+    "runtime-main.js": "/jammming/static/js/runtime-main.032e067f.js",
+    "runtime-main.js.map": "/jammming/static/js/runtime-main.032e067f.js.map",
+    "static/js/2.7c921436.chunk.js": "/jammming/static/js/2.7c921436.chunk.js",
+    "static/js/2.7c921436.chunk.js.map": "/jammming/static/js/2.7c921436.chunk.js.map",
+    "static/js/3.c48be441.chunk.js": "/jammming/static/js/3.c48be441.chunk.js",
+    "static/js/3.c48be441.chunk.js.map": "/jammming/static/js/3.c48be441.chunk.js.map",
+    "index.html": "/jammming/index.html",
+    "static/css/main.bc5dcb62.chunk.css.map": "/jammming/static/css/main.bc5dcb62.chunk.css.map",
+    "static/js/2.7c921436.chunk.js.LICENSE.txt": "/jammming/static/js/2.7c921436.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jammming/static/media/marcela-laskoski-YrtFlrLo2DQ-unsplash.f8f35cfb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.032e067f.js",
+    "static/js/2.7c921436.chunk.js",
+    "static/css/main.bc5dcb62.chunk.css",
+    "static/js/main.5bba9372.chunk.js"
+  ]
+}
