@@ -1,5 +1,5 @@
 const clientId = '475be2057bb24d3cb6619f696e246d1c'
-const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'https://vesta-nna.github.io/jammming'
 let accessToken
 
 const Spotify = {
