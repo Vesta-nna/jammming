@@ -20,7 +20,7 @@ const Spotify = {
       window.history.pushState('Access Token', null, '/')
       return accessToken
     } else {
-      const accessUrl = `https://accounts.spotify.com/authorize?client_id=${clientId}&response_type=token&scope=playlist-modify-public&redirect_uri=${redirectUri}`
+      const accessUrl = `https://accounts.spotify.com/authorize?client_id=${clientId}&response_type=token&scope=playlist-modify-public&redirect_uri=https://vesta-nna.github.io/jammming/`
       window.location = accessUrl
     }
   },
